@@ -1,0 +1,42 @@
+/*color and fonts*/
+
+
+body {
+background: rgb(240, 240, 240);
+color: rgb(50, 50, 50);
+font-family: 'Inter', sans-serif;
+font-size: 17px;
+
+}
+
+h1, h2{
+font-family: 'Domine', serif;
+
+}
+
+h1{
+color : rgb(218 112 214);
+font-size: 32px;
+}
+#photo-rond { /* select all elements with the class="img-circle" */
+  border-radius: 50%;
+
+}
+
+
+h2{
+color : rgb(186 85 211);
+font-size: 20px;
+font-weight: lighter;
+}
+
+a{
+text-decoration: none;
+color: rgb(219 112 147);
+
+}
+
+a:hover{ 
+color: rgb(255 20 147);
+
+ }
